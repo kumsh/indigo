@@ -1,5 +1,5 @@
-# main text of home
-name: John Doe
+#main text of home
+name: K. Umesh
 bio: A Man who travels the world eating noodles
 
 # twitter summary info
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://kumsh.github.io/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -57,7 +57,7 @@ authors:
     name: John Doe
     bio: A Man who travels the world eating noodles
     external-image: false
-    picture: assets/images/profile.jpg
+    picture: assets/images/james.jpg
     twitter: johndoe
   jamesfoster:
     name: James Foster
